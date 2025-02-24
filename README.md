@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Cloudiz1/Cloudiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vinny! I am currently a Junior in High School. I've been programming since 2022 in a variety of languages. 
 
-Here are some ideas to get you started:
+## My Projects
+- Created a Password Manager in Rust
+    - uses AES-256 in CBC operation mode
+    - uses sha256 to confirm login before entering password manager
+    - uses egui for a simple gui
+- Created a Music Player in Python
+    - supports playlists, adding and removing songs, changing volume, skip, pause, and more
+    - converts YouTube links into .wav files
+    - asynchronously plays songs in the background
+- Created a Flashcard Wesbite for AQT
+    - converts pdfs into json objects using Python and Pdfreader
+    - uses js to generate flash cards on frontend
+    - supports themes, basic filtering, shuffling, forward and backwards, and more
+- and more! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+- Creating a POSIX compliant shell (inspired by fish) in C++. Ideally, it should be a drop in replacement for Bash (with fish features, such as autocomplete), but that's very optimistic of me.
+- a blog website
+- an eportfolio to showcase my work!
