@@ -17,7 +17,7 @@ My name is Vinny! I am currently a Junior in High School. I've been programming 
     - supports themes, basic filtering, shuffling, forward and backwards, and more
 - and more! 
 
-## Current Project
+## Current Projects
 - Creating a POSIX compliant shell (inspired by fish) in C++. Ideally, it should be a drop in replacement for Bash (with fish features, such as autocomplete), but that's very optimistic of me.
 - a blog website
 - an eportfolio to showcase my work!
