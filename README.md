@@ -14,7 +14,7 @@ My name is Vinny! I am currently a Junior in High School. I've been programming 
 - Created a Flashcard Wesbite for AQT
     - converts pdfs into json objects using Python and Pdfreader
     - uses js to generate flash cards on frontend
-    - supports themes, basic filtering, shuffling, forward and backwards, and more
+    - supports themes, basic filtering, shuffling, forward and backwards, cookies, etc
 - and more! 
 
 ## Current Projects
