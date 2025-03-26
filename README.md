@@ -18,6 +18,5 @@ My name is Vinny! I've been programming since 2022 in a variety of languages. I'
 - and more! 
 
 ## Current Projects
-- Creating a POSIX compliant shell (inspired by fish) in C++. Ideally, it should be a drop in replacement for Bash (with fish features, such as autocomplete), but that's very optimistic of me.
-- a blog website
-- an eportfolio to showcase my work!
+- Creating a POSIX compliant shell (inspired by fish) in Zig. Ideally, it should be a drop in replacement for Bash. 
+- Creating a plinko inspired incremetal game in VanillaJS, HTML, and CSS for Hyland's HyTech Club (Doofenshmirtz repo).
