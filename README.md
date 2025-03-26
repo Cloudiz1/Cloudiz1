@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Vinny! I am currently a Junior in High School. I've been programming since 2022 in a variety of languages. I've partaken in Hyland's annual hackathon as well as an online CTF (4T$) which we came 37/200+ teams!
+My name is Vinny! I've been programming since 2022 in a variety of languages. I've partaken in Hyland's annual hackathon, RevolutionUC, and an online CTF (4T$) which we came 37/200+ teams!
 
 ## My Projects
 - Created a Password Manager in Rust
